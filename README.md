@@ -6,6 +6,7 @@
 ## Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=goziyyy&repo=perpus-prestasiprima&theme=radical)](https://github.com/goziyyy/perpus-prestasiprima)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=goziyyy&repo=ecommerce&theme=radical)](https://github.com/goziyyy/ecommerce)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
