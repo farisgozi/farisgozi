@@ -7,7 +7,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=farisgozi&repo=perpus-prestasiprima&theme=radical)](https://github.com/farisgozi/perpus-prestasiprima)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=farisgozi&repo=ecommerce&theme=radical)](https://github.com/farisgozi/ecommerce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=farisgoziy&repo=bot-absensi&theme=radical)](https://github.com/farisgozi/bot-absensi)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
