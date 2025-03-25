@@ -1,4 +1,4 @@
-# Goziyyy
+# Faris Gozi
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisgozi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
