@@ -2,7 +2,6 @@
 
 ### Backend Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farisgozi&label=Profile views&color=0e75b6&style=flat" alt="farisgozi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=farisgozi" alt="farisgozi" /></a> </p>
 
