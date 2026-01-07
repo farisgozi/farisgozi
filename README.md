@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farisgozi&label=Profile views&color=0e75b6&style=flat" alt="farisgozi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farisgozi" alt="farisgozi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=farisgozi" alt="farisgozi" /></a> </p>
 
 - 🌱 I'm currently learning **Machine Learning**
 
 - 📫 How to reach me **gozi@gozi.my.id**
 
 - 👨‍💻 All of my projects are available at **[https://gozi.my.id](https://gozi.my.id)**
-
-- 📄 Know about my experiences **[https://www.linkedin.com/in/muhammad-faris-gozi-a297a62a1/](https://www.linkedin.com/in/muhammad-faris-gozi-a297a62a1/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
